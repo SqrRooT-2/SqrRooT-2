@@ -5,6 +5,5 @@
 
 </br></br>
 
-<p align="center"> Github Blog: (not yet) </p>
-
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2147483648ll@gmail.com)](mailto:2147483648@gmail.com)
+<p align="center"> Github Blog : (not yet) </p>
+<p align="center"> Gmail : 2147483648ll@gmail.com </p>
