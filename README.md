@@ -4,4 +4,4 @@
 
 Github Blog: (not yet)
 
-https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2147483648ll@gmail.com)](mailto:2147483648ll@gmail.com)
+(https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2147483648ll@gmail.com)](mailto:2147483648ll@gmail.com)
